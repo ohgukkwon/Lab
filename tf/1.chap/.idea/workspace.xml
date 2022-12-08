@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7e33cc5-d213-4358-9315-9e28e9ca99ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/CNN-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/CNN-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="f7e33cc5-d213-4358-9315-9e28e9ca99ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
