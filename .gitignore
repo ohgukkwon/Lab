@@ -1,0 +1,5 @@
+tf/data/Sunspots.csv
+tf/data/sign_mnist_train.csv
+tf/data/sign_mnist_test.csv
+tf/data/daily-min-temperatures.csv
+tf/4.chap/daily-max-temperatures.csv
