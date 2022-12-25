@@ -3,3 +3,10 @@ tf/data/sign_mnist_train.csv
 tf/data/sign_mnist_test.csv
 tf/data/daily-min-temperatures.csv
 tf/4.chap/daily-max-temperatures.csv
+tf/4.chap/daily-min-temperatures.csv
+tf/3.chap/data/BBC News Sample Solution.csv
+.gitignore
+tf/3.chap/data/BBC News Train.csv
+tf/3.chap/data/bbc-text-minimal.csv
+tf/3.chap/data/BBC News Test.csv
+tf/3.chap/data/bbc-text.csv
