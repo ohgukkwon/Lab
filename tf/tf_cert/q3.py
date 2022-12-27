@@ -33,9 +33,9 @@ import tensorflow as tf
 #from tensorflow.keras.preprocessing.image import ImageDataGenerator
 def preprocess(image, label):
     # NORMALIZE YOUR IMAGES HERE (HINT: Rescale by 1/.255)
-    len_img = int(len(image))
-    images = image.reshape([len_img, 30, 30, 3])
-    image = images / 255
+    #len_img = int(len(image))
+    #images = image.reshape([len_img, 30, 30, 3])
+    image = image / 255
     labelzip = label
 
     return image, labelzip
