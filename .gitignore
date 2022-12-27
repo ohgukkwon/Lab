@@ -5,7 +5,6 @@ tf/data/daily-min-temperatures.csv
 tf/4.chap/daily-max-temperatures.csv
 tf/4.chap/daily-min-temperatures.csv
 tf/3.chap/data/BBC News Sample Solution.csv
-.gitignore
 tf/3.chap/data/BBC News Train.csv
 tf/3.chap/data/bbc-text-minimal.csv
 tf/3.chap/data/BBC News Test.csv
@@ -16,3 +15,7 @@ tf/tf_cert/household_power.zip
 tf/tf_cert/germantrafficsigns.zip
 tf/tf_cert/germantrafficsigns.zip
 tf/4.chap/saved_model.tar.gz
+tf/tf_cert/train/*
+tf/tf_cert/validation/*
+tf/tf_cert/*.csv
+tf/tf_cert/*.zip
