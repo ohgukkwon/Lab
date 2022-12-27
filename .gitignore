@@ -10,3 +10,6 @@ tf/3.chap/data/BBC News Train.csv
 tf/3.chap/data/bbc-text-minimal.csv
 tf/3.chap/data/BBC News Test.csv
 tf/3.chap/data/bbc-text.csv
+tf/tf_cert/__MACOSX/._household_power_consumption.csv
+tf/tf_cert/household_power_consumption.csv
+tf/tf_cert/household_power.zip
